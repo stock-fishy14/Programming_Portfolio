@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Dallin's Programming Porfolio
 
 You can use the [editor on GitHub](https://github.com/stock-fishy14/Programming_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
