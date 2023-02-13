@@ -10,5 +10,13 @@ OOP graphical calculator using processing.
 
 [Source Code](https://github.com/stock-fishy14/Programming_Portfolio/tree/gh-pages/src/calc)
 
+### Space Game
+
+OOP spaceship shooter game using processing.
+
+![Game](https://github.com/stock-fishy14/Programming_Portfolio/blob/gh-pages/images/ship.png?raw=true)
+
+[Source Code](https://github.com/stock-fishy14/Programming_Portfolio/tree/gh-pages/src/spacegame)
+
 ## Programming Semester 2 Projects:
 
