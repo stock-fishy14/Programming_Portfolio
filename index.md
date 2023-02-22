@@ -28,3 +28,11 @@ OOP pipe screen saver using processing.
 
 ## Programming Semester 2 Projects:
 
+### Pig Latin Converter
+
+A program that converts inputted text to pig latin.
+
+![screensaver](https://github.com/stock-fishy14/Programming_Portfolio/blob/gh-pages/images/piglatin.png?raw=true)
+
+[Source Code](https://github.com/stock-fishy14/Programming_Portfolio/tree/gh-pages/src/piglatin)
+
