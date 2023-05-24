@@ -40,11 +40,11 @@ A program that converts inputted text to pig latin.
 
 A collection of Casino games including Blackjack, slots, roulette, and craps.
 
-####Main Screen
+#### Main Screen
 ![screensaver](https://github.com/stock-fishy14/Programming_Portfolio/blob/gh-pages/images/CasionCollectionMain.png?raw=true)
-####Blackjack
+#### Blackjack
 ![screensaver](https://github.com/stock-fishy14/Programming_Portfolio/blob/gh-pages/images/CasinoCollectionBlackjack.png?raw=true)
-####Slots
+#### Slots
 ![screensaver](https://github.com/stock-fishy14/Programming_Portfolio/blob/gh-pages/images/CasinoCollectionSlots.png?raw=true)
 [Source Code](https://github.com/SlySlinky/Games/tree/main)
 
