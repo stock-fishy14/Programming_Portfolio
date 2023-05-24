@@ -1,4 +1,4 @@
-# Welcome to Dallin's Programming Porfolio
+# Welcome to Dallin's Programming Porfolio - [contact](mailto:dallinhmorgan@gmail.com)
 
 ## Programming Semester 1 Projects: 
 
