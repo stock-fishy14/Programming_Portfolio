@@ -36,3 +36,15 @@ A program that converts inputted text to pig latin.
 
 [Source Code](https://github.com/stock-fishy14/Programming_Portfolio/tree/gh-pages/src/piglatin)
 
+### Casino Collection (Group Project)
+
+A collection of Casino games including Blackjack, slots, roulette, and craps.
+
+####Main Screen
+![screensaver](https://github.com/stock-fishy14/Programming_Portfolio/blob/gh-pages/images/CasionCollectionMain.png?raw=true)
+####Blackjack
+![screensaver](https://github.com/stock-fishy14/Programming_Portfolio/blob/gh-pages/images/CasinoCollectionBlackjack.png?raw=true)
+####Slots
+![screensaver](https://github.com/stock-fishy14/Programming_Portfolio/blob/gh-pages/images/CasinoCollectionSlots.png?raw=true)
+[Source Code](https://github.com/SlySlinky/Games/tree/main)
+
